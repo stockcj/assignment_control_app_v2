@@ -8,7 +8,7 @@ _Use of this software is subject to important terms and conditions as set forth 
 
 ## Copyright and license
 
-Copyright 2018 Zendesk
+Copyright 2018 Christopher Stock
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 
